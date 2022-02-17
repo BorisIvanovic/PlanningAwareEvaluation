@@ -1,4 +1,4 @@
-# PlanningAwareEvaluation
+# Planning-Aware Detection and Prediction Evaluation
 
 This repository contains the code for [Injecting Planning-Awareness into Prediction and Detection Evaluation](https://arxiv.org/abs/2110.03270) by Boris Ivanovic and Marco Pavone.
 
