@@ -1,0 +1,24 @@
+matplotlib==3.3.4
+numpy==1.19.2
+pandas==1.1.4
+scipy==1.6.1
+seaborn==0.11.1
+tensorflow==1.15
+torch==1.8.1
+pyquaternion==0.9.9
+pytest==6.2.2
+orjson==3.5.1
+ncls==0.0.57
+dill==0.3.3
+pathos==0.2.7
+tqdm==4.53.0
+notebook==6.2.0
+scikit-learn==0.24.1
+nuscenes-devkit==1.1.5
+pykalman==0.9.5
+cvxpy==1.1.13
+# You will likely need to source deactivate and activate
+# again to get the correct tensorboard version used.
+gym==0.18.3
+stable-baselines3==1.1.0a11 # pip install git+https://github.com/DLR-RM/stable-baselines3
+requests

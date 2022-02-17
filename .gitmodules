@@ -1,0 +1,6 @@
+[submodule "gym-collision-avoidance"]
+	path = gym-collision-avoidance
+	url = https://github.com/mit-acl/gym-collision-avoidance.git
+[submodule "Trajectron-plus-plus"]
+	path = Trajectron-plus-plus
+	url = https://github.com/StanfordASL/Trajectron-plus-plus.git
